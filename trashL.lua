@@ -5,7 +5,7 @@ local maybe = player.MeshPartAccessory
 local clone = maybe:Clone()
 clone.Parent = player
 maybe.Parent = workspace
-loadstring(https://raw.githubusercontent.com/TheRealUwie/testnew/refs/heads/main/trash.lua)()
+loadstring("https://raw.githubusercontent.com/TheRealUwie/testnew/refs/heads/main/trash.lua")()
 wait()
   		game:GetService("Workspace").CloneCharacter.AlignPosition.Name = "AlignPosition2"
   		game:GetService("Workspace").CloneCharacter.AlignOrientation.Name = "AlignOrientation2"
